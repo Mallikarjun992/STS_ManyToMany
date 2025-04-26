@@ -10,5 +10,6 @@ public class ManyToManyApplication
 	{
 		SpringApplication.run(ManyToManyApplication.class, args);
 		System.out.println("welcome to many to many application");
+		System.out.println("welcome to nansdfsdfs");
 	}
 }
